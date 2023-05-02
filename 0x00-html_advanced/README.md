@@ -2,13 +2,6 @@
 
 `HTML` `Front-end`
 
-|By: David Dias, Senior Software Engineer at HomeX|
-|:--|
-|Weight: 1|
-|Project will start Jan 5, 2023 6:00 AM, must end by Jan 11, 2023 6:00 AM|
-|was released at Jan 6, 2023 6:00 PM|
-|An auto review will be launched at the deadline|
-
 ## Concepts
 *For this project, we expect you to look at this concept:*
 
@@ -56,10 +49,3 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 - Your code should be W3C compliant and validate with W3C-Validator
 - Techium will be the name of the company we will use across our webpages.
 
-## Sitemap of the project
-
-![sitemap](../images/4dec2ba9d84a0a55355b1c1e2de4c57854a2d35a.png)
-
-## Wireframe of `Techium` project
-
-![techium](../images/3e4f9e2b3cb73d1768229e086f5da35337be5c6c.png)
